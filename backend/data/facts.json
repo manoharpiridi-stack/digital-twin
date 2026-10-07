@@ -1,0 +1,26 @@
+{
+    "full_name": "Murali Manohar",
+    "name": "Murali",
+    "current_role": "AI Engineer",
+    "location": "Visakhapatnam, India",
+    "email": "muralimanohar007@gmail.com",
+    "linkedin": "linkedin.com/in/muralimanohar",
+    "specialties": [
+      "AI",
+      "Machine Learning",
+      "Data Science",
+      "Deep Learning",
+      "Computer Vision",
+      "Natural Language Processing",
+      "Robotics",
+      "Automation"
+    ],
+    "years_experience": 2,
+    "education": [
+      {
+        "degree": "Master of Science",
+        "institution": "Siegen University",
+        "year": "2019 - 2024"
+      }
+    ]
+  }
