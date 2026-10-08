@@ -811,6 +811,7 @@ Remove-Item github-oidc.tf    # Windows PowerShell
 ```
 
 **Important**: Save the Role ARN from the terraform output - you'll need it for the next step.
+"arn:aws:iam::364019835386:role/github-actions-twin-deploy"
 
 ### Step 3: Configure Terraform Backend
 
