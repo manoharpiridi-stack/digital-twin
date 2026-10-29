@@ -33,3 +33,6 @@ uv.lock
 .idea/
 *.swp
 .DS_Store
+
+# Local conversation memory (on AWS it is stored in S3)
+memory/
